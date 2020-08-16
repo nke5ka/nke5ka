@@ -1,5 +1,8 @@
-### Hi there 👋
+### WELCOME!
 
+Hi friends, and welcome to my profile.  I'll keep this page clean, but if you want to read about me (and my projects) in depth, please go to https://nke5ka.github.io/
+
+Have a wondrous day!
 <!--
 **nke5ka/nke5ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
